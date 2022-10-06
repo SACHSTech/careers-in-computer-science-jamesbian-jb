@@ -76,7 +76,7 @@ The admission average for individual selection is low to mid 90's. Some other ge
 The first year courses for Waterloo's Computer Science are of course, focused on a large amount of math and calculation heavy courses. In the first year, COmputer Science features courses such as Designing Functional Programs, Algortihim Design and Data Abstraction, and Honours Calculus that is involved with Computer Science. The degree also requires a communications course of any kind plus an elective. A bachelor's degree in Computer Science usually takes about 3 years to complete, and an additional 2 years for a masters.
 
 
-
+# 1.3: Additional Experience
 
 
 
@@ -93,5 +93,16 @@ Now that you have finished your degree in Computer Science or Math related cours
 |[Customer Analyst](https://ca.indeed.com/jobs?q=analyst+%2450%2C000&l=Richmond+Hill%2C+ON&radius=100&vjk=7fb938dfc095e111)    | Entry-Level      | Unspecified|
 |[Business/Banking System Analyst](https://ca.indeed.com/jobs?q=analyst+%24130%2C000&l=Richmond+Hill%2C+ON&radius=100&vjk=4244a2a30ed72d97)| Senior-Level      |    $156-165 |
 
+    Job Description is linked with each Job Posting in Chart
+
 Software Analyst: 
 - Location: Richmond Hill
+- Additional Skills: Hands-On skills with UI framewear
+
+Customer Analyst: 
+- Location: Toronto
+- Additional Skills: Coop experience, Interpersonal Skills
+
+Banking System Analyst:
+- Location: Etobicoke
+- Additional Skills: BSA resource, Banking Domain Experience (5+ Years)
