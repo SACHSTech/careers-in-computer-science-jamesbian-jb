@@ -77,9 +77,10 @@ The first year courses for Waterloo's Computer Science are of course, focused on
 
 
 # 1.3: Additional Experience
+There are other ways, of course, to gain experience in the field of Computer Science and Math. This could range from Co-op, volunteering, internships, and so much more that can help you gain experience which companies are looking for. These skills do not necessarily be related to the occupation either. Interpersonal skills are helpful in almost any job out there too.
 
-
-
+## Sample of Experience: Co-op
+Co-op and internshipping are some of the most popular ways to gain experience outside of traditional schooling. They are relatively easy to find, and most schools, such as Waterloo, support a Co-op program. Waterloo itself is also very well known for its Co-op, and has a variety of possible Co-op jobs availble. A program that is availble outside of Waterloo for everyone is through the Government of Canada.
 
 
 
@@ -101,7 +102,7 @@ Software Analyst:
 
 Customer Analyst: 
 - Location: Toronto
-- Additional Skills: Coop experience, Interpersonal Skills
+- Additional Skills: Co-op experience, Interpersonal Skills
 
 Banking System Analyst:
 - Location: Etobicoke
