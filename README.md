@@ -40,7 +40,7 @@ There is a lot of training required in becoming a Program Analyst. Other than yo
  - Leadership
  
  
- <img src=" https://www.marketing91.com/wp-content/uploads/2020/11/Non-technical-skills.jpg" width="400" height="300">
+ <img src="https://www.marketing91.com/wp-content/uploads/2020/11/Non-technical-skills.jpg" width="400" height="300">
  
  
  ## How much does it pay?
@@ -138,3 +138,24 @@ Sources:
     
     resources, 4corner. “Program Analyst Job Descriptions, Salary, and Interview Questions.” 4 Corner Resources, 25 July 2022, https://www.4cornerresources.com/job-descriptions/program-analyst/
     #:~:text=A%20program%20analyst%20is%20responsible,trends%20and%20opportunities%20for%20improvement. 
+
+## Images
+    Herzing Blog. “Is Programmer Analyst a Good Career? Advice for New Students.” Herzing.ca, Herzing Canada, 27 Nov. 2020, blog.herzing.ca/is-programmer-analyst-a-good-career-advice-for-new-students. Accessed 12 Oct. 2022.
+
+    Marketing91.com, 2022, www.marketing91.com/wp-content/uploads/2020/11/Non-technical-skills.jpg. Accessed 12 Oct. 2022.
+
+    Learnupon.com, 2022, www.learnupon.com/wp-content/uploads/Blog-Technical-Skills-1200x628-1.png. Accessed 12 Oct. 2022.
+
+    Applyboard.com, 2022, www.applyboard.com/wp-content/uploads/2021/03/Office-3-1024x536.png. Accessed 12 Oct. 2022.
+
+‌
+
+‌
+
+‌
+
+‌
+
+
+
+‌
